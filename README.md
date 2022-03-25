@@ -1,5 +1,5 @@
 ### Hi there 👋 Bidit Sadhukhan
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Statistician+and+an+Ultralearner;All+my+project+repositories+here+.+.+.)](https://git.io/typing-svg)
 <!--
 **biditsadhukhan/biditsadhukhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biditsadhukhan&show_icons=true&theme=highcontrast)](https://github.com/biditsadhukhan/github-readme-stats)
+[![Bidit's GitHub stats](https://github-readme-stats.vercel.app/api?username=biditsadhukhan&show_icons=true&theme=highcontrast)](https://github.com/biditsadhukhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biditsadhukhan&show_icons=true&theme=dracula)](https://github.com/biditsadhukhan/github-readme-stats)
