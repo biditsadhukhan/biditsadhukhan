@@ -1,5 +1,5 @@
 ### Hi there 👋 Bidit Sadhukhan
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Statistician+Data+Analyst+and+an;Ultralearner;All+my+project+repositories+here+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Statistician+Data+Analyst+and+.+.+.;An+Ultralearner+.+.;All+my+project+repositories+here+.+.+.)](https://git.io/typing-svg)
 <!--
 **biditsadhukhan/biditsadhukhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
