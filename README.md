@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Data Visualization projects
+- 🔭 I’m currently studying Graph based Machine Learning 
 - 🌱 I’m currently learning Data Science
 <!-- 
 - 👯 I’m looking to collaborate on ...
