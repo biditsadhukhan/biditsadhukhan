@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/biditsadhukhan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
-- 🔭 I’m currently studying Graph based Machine Learning 
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently studying Speech Recognition System
+- 🌱 I’m currently learning Data Science 
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
